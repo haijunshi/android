@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Haijunshi的博客</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="https://haijunshi.github.io/android/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://haijunshi.github.io/android/"/>
   <updated>2020-09-01T11:45:34.627Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://haijunshi.github.io/android/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Haijun Shi</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/09/01/hello-world/"/>
-    <id>http://yoursite.com/2020/09/01/hello-world/</id>
+    <link href="https://haijunshi.github.io/android/2020/09/01/hello-world/"/>
+    <id>https://haijunshi.github.io/android/2020/09/01/hello-world/</id>
     <published>2020-09-01T11:45:34.626Z</published>
     <updated>2020-09-01T11:45:34.627Z</updated>
     
